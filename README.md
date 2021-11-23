@@ -4,10 +4,8 @@
 
 - 🔭 I’m currently working on practicing my C# skills 
 - 🌱 I’m currently learning French and Java :O
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about Anything :D
 - 📫 How to reach me: You can reach me on my instagram: Samarass34  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/HIM
+- ⚡ Fun fact: I like to swim in cold water :O
 -->
