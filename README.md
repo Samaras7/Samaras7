@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on practicing my C# skills 
-- 🌱 I’m currently learning French and Java :O
+- 🌱 I’m currently learning French and React :O
 - 💬 Ask me about Anything :D
 - 📫 How to reach me: You can reach me on my instagram: Samarass34  
 - 😄 Pronouns: He/HIM
